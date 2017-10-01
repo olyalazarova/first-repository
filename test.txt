@@ -12,7 +12,9 @@ namespace ConsoleApplication2_08032017
         static void Main(string[] args)
         {
             Console.WriteLine("Hello C#");
+
 //"Updating with Bash..."
+//"Update with Tortoise..."
         }
     }
 }
